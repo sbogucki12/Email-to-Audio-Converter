@@ -160,6 +160,8 @@ If you encounter issues:
 
 ## Future Enhancements
 
+Well, first, I should probably improve it so that it removes URLs from being read verbally in the audio file. That's next. It'll be pretty annoying until I do that. 
+
 Potential areas for future development include:
 - Deployment to the cloud to run on a schedule
 - Convert this into a cmd line app so that I can search emails and convert to audio on demand
